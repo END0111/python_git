@@ -1,5 +1,5 @@
 import time
-
+x = 5
 ma_variable_globale = "variable globale"
 
 def ma_fonction(ma_variable_argument):
@@ -11,3 +11,4 @@ def ma_fonction(ma_variable_argument):
         time.sleep(1)
 
 ma_fonction("variable argument")
+# ceci est un test de github
