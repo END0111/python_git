@@ -14,3 +14,4 @@ def ma_fonction(ma_variable_argument):
 
 ma_fonction("variable argument")
 # ceci est un test de github
+#Bonjour ceci n'est pas une chaise
