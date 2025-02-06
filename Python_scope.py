@@ -1,6 +1,7 @@
 import time
 x = 5
 y = 6
+z = 7
 ma_variable_globale = "variable globale"
 
 def ma_fonction(ma_variable_argument):
